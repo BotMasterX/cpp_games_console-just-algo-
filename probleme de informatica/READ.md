@@ -1,3 +1,0 @@
-Problemele acestea sunt preluate din http://info.mcip.ro/index.php
-Chiar daca au rezolvari pe aeasta pagina eu le-am rezolvat in modul meu
-Unele probleme nu sunt facute intrucat nu stiu peste care am sarit si nu mi-am notat nicaieri ordinea problemelor rezolvate so...
